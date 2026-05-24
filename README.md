@@ -31,9 +31,9 @@ Microsoft Excel
 
 ### 🌟 Diferenciais & Certificações
 
-- 🎯 **AWS Academy Graduate:** Certificada em *AWS Academy Cloud Foundations* (20h), com domínio prático sobre os pilares globais de computação em nuvem.
-- 📈 **Google Professional Certificate:** Certificada em *Marketing Digital e E-commerce pelo Google*, trazendo uma visão analítica de dados e foco em produtos digitais para complementar o desenvolvimento técnico.
-- 🐍 **Trilha de Linguagem Python (53h):** Foco em Programação Orientada a Objetos (POO), Estruturas de Dados e interfaces com Kivy.
+- 🎯 **AWS Academy Graduate:** Certificada em *AWS Academy Cloud Foundations* (20h).
+- 📈 **Google Professional Certificate:** Certificada em *Marketing Digital e E-commerce pelo Google*.
+- 🐍 **Trilha de Linguagem Python (53h):** Foco em Programação Orientada a Objetos (POO).
 
 ---
 
