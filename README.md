@@ -15,16 +15,16 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens & Lógica:**
-Python
+Python e
 C
 
 **Desenvolvimento Web:**
-HTML
-CSS
+HTML,
+CSS e
 JavaScrip
 
 **Bancos de Dados & Organização:**
-MySQL
+MySQL e
 Microsoft Excel
 
 ---
