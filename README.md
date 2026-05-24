@@ -1,4 +1,4 @@
-# Olá, eu sou a Stéfany Lima! 👋
+# Olá, eu sou a Stéfany Lima!
 
 - Gosto de descobrir a solução de problemas por meio de códigos. Atualmente, busco evoluir meus conhecimentos teóricos e práticos através do Bacharelado em Ciência da Computação.
 ---
