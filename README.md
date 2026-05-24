@@ -6,7 +6,7 @@
 ### 🚀 Sobre Mim
 
 - 🎓 Graduanda em **Ciência da Computação** no Instituto Federal do Ceará (IFCE).
-- 🛠️ Formada como **Técnica em Informática**, onde construí minha base sólida em desenvolvimento de software e lógica.
+- 🛠️ Formada como **Técnica em Informática**, onde construí minha base em desenvolvimento de software e lógica.
 - ☁️ Entusiasta de **Cloud Computing** e **Arquitetura de Dados**, sempre buscando conectar a infraestrutura moderna com soluções eficientes de software.
 - 🎯 Buscando oportunidades de estágio e posições iniciais para colaborar com equipes dinâmicas e evoluir continuamente.
 
