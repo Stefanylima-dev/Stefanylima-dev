@@ -41,7 +41,7 @@ Microsoft Excel
 
 ---
 
-![Pacman Animation](https://metrics.lecoq.io/Stefanylimadev?base=&plugin_isocalendar=1&plugin_isocalendar_duration=half-year)
+![Pacman Animation](https://raw.githubusercontent.com/Stefanylima-dev/Stefanylima-dev/main/github-metrics.svg)
 
 ### 📬 Vamos nos conectar?
 
