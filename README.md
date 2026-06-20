@@ -41,6 +41,8 @@ Microsoft Excel
 
 ---
 
+![Pacman Animation](https://raw.githubusercontent.com/Stefanylima-dev/Stefanylima-dev/output/github-contribution-grid-snake.svg)
+
 ### 📬 Vamos nos conectar?
 
 Se quiser conversar sobre tecnologia, projetos ou oportunidades de estágio, sinta-se à vontade para entrar em contato!
