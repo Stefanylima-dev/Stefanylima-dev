@@ -41,7 +41,7 @@ Microsoft Excel
 
 ---
 
-![Pacman Animation](https://raw.githubusercontent.com/Stefanylima-dev/Stefanylima-dev/output/github-contribution-grid-snake.svg)
+![Pacman Animation](https://raw.githubusercontent.com/Stefanylima-dev/Stefanylimadev/main/github-metrics.svg)
 
 ### 📬 Vamos nos conectar?
 
