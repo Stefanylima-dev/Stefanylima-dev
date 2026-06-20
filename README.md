@@ -41,12 +41,6 @@ Microsoft Excel
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stefanylima-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br/>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="400px">
-</div>
-
 ![Pacman](https://raw.githubusercontent.com/Stefanylima-dev/Stefanylima-dev/output/github-user-contribution-pacman.svg)
 
 ### 📬 Vamos nos conectar?
