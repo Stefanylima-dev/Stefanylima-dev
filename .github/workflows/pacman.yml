@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Pacman Animation
 
 on:
   schedule:
@@ -12,12 +12,7 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
-      # Gera o gráfico do Pac-Man legítimo
-      - uses: lowlighter/metrics@latest
+      - name: Generate Pacman
+        uses: jasonlong/github-readme-pacman@main
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          github_user_name: ${{ github.repository_owner }}
