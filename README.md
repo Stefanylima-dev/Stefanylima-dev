@@ -28,9 +28,9 @@ MySQL e
 Microsoft Excel
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&custom_title=Linguagens%20ultilizadas%20nos%20meus%20projetos&colors=FF69B4,FFB6C1,FFC0CB,E0115F" width="400px"/>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&custom_title=Linguagens%20dos%20Repositórios&colors=FF69B4,FFB6C1,FFC0CB,E0115F" width="400px"/>
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" width="400px"/>
 
