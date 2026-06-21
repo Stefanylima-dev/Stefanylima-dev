@@ -37,6 +37,7 @@ Microsoft Excel
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut&custom_title=Linguagens%20Mais%20Usadas"/>
 
 
 
