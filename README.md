@@ -29,7 +29,7 @@ Microsoft Excel
 
 ---
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylimadev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 Diferenciais & Certificações
 
