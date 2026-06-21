@@ -39,7 +39,7 @@ Microsoft Excel
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=tokyonight&display_type=donut"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
 </div>
 
 
