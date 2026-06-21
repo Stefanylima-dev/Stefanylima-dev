@@ -44,7 +44,7 @@ Microsoft Excel
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=radical&api_domain=wakatime.com&layout=pie"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dark&api_domain=wakatime.com&layout=pie"/>
 </div>
 
 
