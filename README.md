@@ -29,14 +29,12 @@ Microsoft Excel
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&theme=tokyonight" width="400px"/>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
 
 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&theme=tokyonight" width="400px"/>
-</div>
 
 ### 🌟 Diferenciais & Certificações
 
