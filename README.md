@@ -33,9 +33,6 @@ Microsoft Excel
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF&icon_color=FF69B4&display_type=donut&custom_title=Linguagens%20Mais%20Usadas"/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut&custom_title=Linguagens%20Mais%20Usadas"/>
-
-
 
 ### 🌟 Diferenciais & Certificações
 
