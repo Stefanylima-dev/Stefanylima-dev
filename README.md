@@ -29,9 +29,9 @@ Microsoft Excel
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
+
 
 
 <div align="center">
