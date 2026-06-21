@@ -34,6 +34,9 @@ Microsoft Excel
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=tokyonight&display_type=pie)](https://github.com/anuraghazra/github-readme-stats)
 
+
+![WakaTime Pie Chart](https://metrics.lecoq.io/Stefanylima?base=&plugin_wakatime=1&plugin_wakatime_sections=languages&plugin_wakatime_days=7)
+
 ### 🌟 Diferenciais & Certificações
 
 - 🎯 **AWS Academy Graduate:** Certificada em *AWS Academy Cloud Foundations* (20h).
