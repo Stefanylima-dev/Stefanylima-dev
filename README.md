@@ -31,6 +31,16 @@ Microsoft Excel
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&theme=tokyonight" width="400px"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=dark&theme=tokyonight" width="400px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=radical&theme=tokyonight" width="400px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=dracula&theme=tokyonight" width="400px"/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefanylima-dev&layout=donut&bg_color=0D1117&title_color=FF69B4&text_color=FFFFFF" width="400px"/>
+</div>
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&theme=dracula&display_type=donut"/>
 
 
