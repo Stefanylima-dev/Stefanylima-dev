@@ -29,7 +29,6 @@ Microsoft Excel
 
 ---
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Stefanylima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![WakaTime](https://github-readme-wakatime.vercel.app/api?username=Stefanylima)](https://github.com/anuraghazra/github-readme-wakatime)
